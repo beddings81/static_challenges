@@ -1,0 +1,44 @@
+
+h1 {
+  text-align: left;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  background-color: rgb(244, 7, 7);
+  height: 40px;
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+nav {
+  display: block;
+  text-align: right;
+  color: white;
+  background-color: rgb(49, 49, 49);
+  height: 30px;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+h2 {
+  font-weight: bold;
+  color: black;
+  height: 30px;
+}
+
+body {
+  background-color: white;
+  line-height: 1;
+}
+
+footer {
+  background-color: rgb(49, 49, 49);
+  color: white;
+  padding: 10px 10px;
+  font-size: 10px;
+}
+
+p {
+  text-align: left;
+  color: black;
+  font-size: 10px;
+}
